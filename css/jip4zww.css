@@ -1,0 +1,98 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * abril-text:
+ *   - http://typekit.com/eulas/0000000000000000000119bd
+ *   - http://typekit.com/eulas/0000000000000000000119be
+ *   - http://typekit.com/eulas/000000000000000000013302
+ *   - http://typekit.com/eulas/0000000000000000000119c0
+ * adobe-caslon-pro:
+ *   - http://typekit.com/eulas/000000000000000000012d6a
+ * dm-sans:
+ *   - http://typekit.com/eulas/000000000000000077544b4e
+ *   - http://typekit.com/eulas/000000000000000077544b47
+ *   - http://typekit.com/eulas/000000000000000077544b54
+ *   - http://typekit.com/eulas/000000000000000077544b46
+ *   - http://typekit.com/eulas/000000000000000077544b53
+ * league-gothic:
+ *   - http://typekit.com/eulas/000000000000000000014689
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-12-12 23:37:58 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"league-gothic";
+src:url("https://use.typekit.net/af/65a1f5/000000000000000000014689/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/65a1f5/000000000000000000014689/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/65a1f5/000000000000000000014689/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"adobe-caslon-pro";
+src:url("https://use.typekit.net/af/8c23a7/000000000000000000012d6a/27/l?subset_id=2&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/8c23a7/000000000000000000012d6a/27/d?subset_id=2&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/8c23a7/000000000000000000012d6a/27/a?subset_id=2&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"abril-text";
+src:url("https://use.typekit.net/af/c70000/0000000000000000000119bd/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/c70000/0000000000000000000119bd/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/c70000/0000000000000000000119bd/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"abril-text";
+src:url("https://use.typekit.net/af/8c6b3b/0000000000000000000119be/27/l?subset_id=2&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/8c6b3b/0000000000000000000119be/27/d?subset_id=2&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/8c6b3b/0000000000000000000119be/27/a?subset_id=2&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"abril-text";
+src:url("https://use.typekit.net/af/94136d/000000000000000000013302/27/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/94136d/000000000000000000013302/27/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/94136d/000000000000000000013302/27/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"abril-text";
+src:url("https://use.typekit.net/af/8fc4c7/0000000000000000000119c0/27/l?subset_id=2&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/8fc4c7/0000000000000000000119c0/27/d?subset_id=2&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/8fc4c7/0000000000000000000119c0/27/a?subset_id=2&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"dm-sans";
+src:url("https://use.typekit.net/af/4e046a/000000000000000077544b4e/30/l?subset_id=2&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/4e046a/000000000000000077544b4e/30/d?subset_id=2&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/4e046a/000000000000000077544b4e/30/a?subset_id=2&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"dm-sans";
+src:url("https://use.typekit.net/af/21e874/000000000000000077544b47/30/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/21e874/000000000000000077544b47/30/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/21e874/000000000000000077544b47/30/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"dm-sans";
+src:url("https://use.typekit.net/af/c53b84/000000000000000077544b54/30/l?subset_id=2&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/c53b84/000000000000000077544b54/30/d?subset_id=2&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/c53b84/000000000000000077544b54/30/a?subset_id=2&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"dm-sans";
+src:url("https://use.typekit.net/af/9d16d7/000000000000000077544b46/30/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9d16d7/000000000000000077544b46/30/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9d16d7/000000000000000077544b46/30/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"dm-sans";
+src:url("https://use.typekit.net/af/193592/000000000000000077544b53/30/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/193592/000000000000000077544b53/30/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/193592/000000000000000077544b53/30/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+.tk-league-gothic { font-family: "league-gothic",sans-serif; }
+.tk-adobe-caslon-pro { font-family: "adobe-caslon-pro",serif; }
+.tk-abril-text { font-family: "abril-text",serif; }
+.tk-dm-sans { font-family: "dm-sans",sans-serif; }
